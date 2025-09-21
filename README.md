@@ -10,5 +10,3 @@ Seguimiento de seguridad: Paneles dedicados para auditar eventos de seguridad, c
 Alertas y notificaciones: Sistema de alertas configurables para notificar a los administradores sobre actividades sospechosas o estados críticos de la infraestructura.
 
 Informes personalizables: Generación de informes detallados sobre el uso de recursos, el cumplimiento de políticas de seguridad y la salud general de AD.
-
-Fácil de usar: Interfaz intuitiva y accesible que no requiere conocimientos avanzados para su uso.
